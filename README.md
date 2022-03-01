@@ -1,11 +1,16 @@
 # Validate VAT API
 
-“Validate VAT” validates VAT numbers, get company information, including address, returned for EU & GB VAT numbers.
+Validates VAT API verfies VAT numbers, get company information, address details for All European Union States & Great Britain VAT numbers.
 
 
 [Get a free API access key](https://www.theapibridge.com/signup) for trial requests.
 
 ## API Features
+* **All EU Member States Coverage**
+* **Great Britain Coverage**
+* **Get Live VAT Rates**
+* **Get Company Name**
+* **Get Company Address**
 * **Simple RESTFUL API**
 * **Easy To Integrate**
 * **Mobile-friendly JSON API**
