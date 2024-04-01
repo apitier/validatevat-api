@@ -1,7 +1,7 @@
 # Validate VAT API
 
 Validates VAT API verfies VAT numbers, get company information, address details for All European Union States & Great Britain VAT numbers.
-
+ 
 
 [Get a free API access key](https://www.apitier.com/signup) for trial requests.
 
