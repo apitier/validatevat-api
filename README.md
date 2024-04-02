@@ -41,7 +41,7 @@ Very affordable pricing, each Validat VAT API request costs **3 request for 1 Ce
 Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.apitier.com/signup)
 
 ## Documentation
-An extensive API documentation, including code examples and extensive descriptions can be found [here](https://docs.apitier.com/docs/validate-vat/introduction).
+An extensive API documentation, including code examples and extensive descriptions can be found [here](https://docs.apitier.com/docs/validate-vat-api/introduction).
 
 ## Customer Support
 For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@apitier.com).
