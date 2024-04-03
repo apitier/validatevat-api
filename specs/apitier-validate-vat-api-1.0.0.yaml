@@ -42,7 +42,7 @@ paths:
           type: string
         examples:       
           single:         
-            value: NQyF1LsrQJ8mFW1nDCspwaMH1DzFrbXC4TpRcwdf   
+            value: api_key   
             summary: API Key value
       responses:
         200:
